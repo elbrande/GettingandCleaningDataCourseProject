@@ -32,7 +32,7 @@ Finally the following rules were applied to the column names:
 
 ##Variables
 This list shows the mapping from the original column name to the tidy data set column name.
-Source	Target
+Source	-> Target
 * NA								-> activity_id
 * NA								-> activityName
 * NA								-> Group.1
