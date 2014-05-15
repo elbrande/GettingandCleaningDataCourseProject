@@ -15,8 +15,9 @@ CodeBook.md
 
 
 dataTidy.csv
-*Tidy data file containing the merged data aggregated by subject and activity for the 79 standard deviation and mean variables
+* Tidy data file containing the merged data aggregated by subject and activity for the 79 standard deviation and mean variables
 
 ##Instructions
-To run the analysis, source the run_analysis.R file.  Then execute the runAnalysis function.
-e.g. runAnalysis()
+To run the analysis, source the run_analysis.R file.  
+Then execute the runAnalysis function.
+	e.g. runAnalysis()
