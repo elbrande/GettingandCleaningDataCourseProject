@@ -63,6 +63,6 @@ runAnalysis <- function () {
    data.tidy = merge(label.activity, data.aggregate, by.x="activity_id", by.y="activity_id",  all.y=T)
    
    ##Write tidy data to file
-   write.csv(data.tidy, file='dataTidy.csv')
+   write.csv(data.tidy, file='dataTidy.txt')
 }
 
